@@ -4,7 +4,7 @@ This repository contains an extensive analysis of road accidents in the United S
 
 Project Overview:
 
-i investigate several aspects of road accidents, including the impact of environmental conditions, time factors, geographic locations, and traffic control features on accident severity and occurrence. The analysis seeks to answer critical questions such as:
+I investigate several aspects of road accidents, including the impact of environmental conditions, time factors, geographic locations, and traffic control features on accident severity and occurrence. The analysis seeks to answer critical questions such as:
 
 How do different times of the day affect accident severity?
 Are certain geographic regions prone to higher accident rates?
