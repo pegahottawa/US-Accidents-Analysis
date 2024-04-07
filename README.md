@@ -11,6 +11,8 @@ How do different times of the day affect accident severity?
 
 What times of the year and days of the week experience the most accidents?
 
+At which hours are accidents most likely to occur?
+
 Are certain geographic regions prone to higher accident rates?
 
 What role do weather conditions play in accident occurrences?
